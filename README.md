@@ -1,5 +1,5 @@
 #### 👋 Hi, I’m @neskuld a.k.a. Ana Caroline.
 - 🌎 I currently live in Minas Gerais, Brazil.
 - 🛠 I'm interested in building things. Anything and everything. I just really enjoy taking projects off the ground and (when possible) bringing them to completion.
-- 🌱 I’m currently learning full stack web development. I have some experience with Node and React and started to learn Angular and SpringBoot.
-- 💞️ I'm using my free time to learn more about Python data analysis, task automation and micro controllers (Arduino). I feel achieved by seeing data moving and the lights blinking.
+- 🌱 I’m currently learning full stack web development. I have experience with Node and React, learned a bit about Angular and SpringBoot but quickly moved back to React and Ruby on Rails.
+- 💞️ I also used my free time to learn more about micro controllers (Arduino) and my new hobby is 3D printing. I feel achieved by seeing data moving and the lights blinking.
